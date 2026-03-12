@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"qasim khawaja"
+	],
+	"dependencies": {
+		"bindbc-glfw": "~>1.1.2",
+		"erupted": "~>2.1.98"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "vulkan_triangle",
+	"versions": [
+		"GLFW_33"
+	]
+}

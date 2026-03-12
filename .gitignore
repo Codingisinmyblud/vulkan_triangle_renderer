@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vulkan_triangle
+vulkan_triangle.so
+vulkan_triangle.dylib
+vulkan_triangle.dll
+vulkan_triangle.a
+vulkan_triangle.lib
+vulkan_triangle-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
