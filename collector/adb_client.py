@@ -6,3 +6,6 @@ def run_adb(cmd):
         return result.stdout
     except subprocess.CalledProcessError:
         return ""
+
+def shell(cmd):
+    return run_adb(f"shell {cmd}")
